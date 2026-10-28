@@ -1,3 +1,5 @@
+**Summary**
+
 Week 3 inputs and outputs were matched across all eight functions and appended to the original and earlier weekly observations. Week 3 produced new best values for Functions 2, 4 and 5. Functions 7 and 8 remained effectively at their identified maxima. Functions 1, 3 and 6 did not improve, so the fourth-round strategy combines targeted exploration, local surrogate refinement, empirical gradient testing and exact near-optimum perturbations.
 
 **Week 3 results**
