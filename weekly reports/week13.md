@@ -1,4 +1,5 @@
 **Summary**
+
 Week 12 is complete and its eight returned outputs are paired with the submitted inputs. Functions 4 and 5 achieved new best values of 0.230797 and 2098.410528. Functions 7 and 8 remained numerical near-ties, while Functions 1, 2, 3 and 6 did not materially improve. Function 2's decline shows that the preceding gain did not establish a reliable continuation direction.
 
 **Week 12 performance**
